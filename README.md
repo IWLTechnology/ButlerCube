@@ -11,7 +11,7 @@ This is part of the Butler Project (https://thebutlerproject.glitch.me).
 
 ## To Do
 
-Update and finish the schematics adn project information
+Update and finish the schematics and project information
 
 ## Licensing
 
